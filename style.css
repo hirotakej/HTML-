@@ -18,14 +18,14 @@ main {
 
 .step-box {
   width: 90%;
-  margin-right: 30px;
+  margin: 15px ;
   padding: 10px;
   position: relative;
   background-color: #eee;
 }
 
 .step-box:last-child {
-  margin-right:0px ;
+  margin-right:15px ;
 }
 
 .step-img1 {
