@@ -10,15 +10,15 @@ header {
 }
 
 main {
-  width: 100%;
+  width: 960px;
   margin: 50px auto;
   display: flex;
 }
 
 
 .step-box {
-  width: 90%;
-  margin: 15px ;
+  width: 300px;
+  margin-right: 30px ;
   padding: 10px;
   position: relative;
   background-color: #eee;
